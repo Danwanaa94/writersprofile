@@ -9,52 +9,52 @@
 
 },
 {
-    "id" :1,
+    "id" :2,
     "name" :"Belle Hooks",
     "avatar" :"belle_hooks",
     "email" :"audrelorde",
     "phone" :"0249225053",
-    "bio" :"she is one of the proflic writers we have"
+    "bio" :"He is an outstanding writer with many best selling books to his name"
     
     },
     
     {
-        "id" :1,
+        "id" :3,
         "name" :"Du Bois",
         "avatar" :"du_bois",
         "email" :"audrelorde",
         "phone" :"0249225053",
-        "bio" :"she is one of the proflic writers we have"
+        "bio" :"A fantastic writer with many years of experience"
         
         },
         
         {
-            "id" :1,
+            "id" :4,
             "name" :"James Baldwin",
             "avatar" :"james_baldwin",
             "email" :"audrelorde",
             "phone" :"0249225053",
-            "bio" :"she is one of the proflic writers we have"
+            "bio" :"A Contemporary writer"
             
             },
             
             {
-                "id" :1,
+                "id" :5,
                 "name" :"Lanston Hughes",
                 "avatar" :"lanston_hughes",
                 "email" :"audrelorde",
                 "phone" :"0249225053",
-                "bio" :"she is one of the proflic writers we have"
+                "bio" :"A writer of many years of standing"
                 
                 },
                 
                 {
-                    "id" :1,
+                    "id" :6,
                     "name" :"Maya Angelou",
                     "avatar" :"maya_angelou",
                     "email" :"audrelorde",
                     "phone" :"0249225053",
-                    "bio" :"she is one of the proflic writers we have"
+                    "bio" :"she is complete new generational writer of enviable repute"
                     
                     }
                     
