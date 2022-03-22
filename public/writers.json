@@ -1,0 +1,62 @@
+[
+{
+"id" :1,
+"name" :"Audre Lorde",
+"avatar" :"audre_lorde",
+"email" :"audrelorde",
+"phone" :"0249225053",
+"bio" :"she is one of the proflic writers we have"
+
+},
+{
+    "id" :1,
+    "name" :"Belle Hooks",
+    "avatar" :"belle_hooks",
+    "email" :"audrelorde",
+    "phone" :"0249225053",
+    "bio" :"she is one of the proflic writers we have"
+    
+    },
+    
+    {
+        "id" :1,
+        "name" :"Du Bois",
+        "avatar" :"du_bois",
+        "email" :"audrelorde",
+        "phone" :"0249225053",
+        "bio" :"she is one of the proflic writers we have"
+        
+        },
+        
+        {
+            "id" :1,
+            "name" :"James Baldwin",
+            "avatar" :"james_baldwin",
+            "email" :"audrelorde",
+            "phone" :"0249225053",
+            "bio" :"she is one of the proflic writers we have"
+            
+            },
+            
+            {
+                "id" :1,
+                "name" :"Lanston Hughes",
+                "avatar" :"lanston_hughes",
+                "email" :"audrelorde",
+                "phone" :"0249225053",
+                "bio" :"she is one of the proflic writers we have"
+                
+                },
+                
+                {
+                    "id" :1,
+                    "name" :"Maya Angelou",
+                    "avatar" :"maya_angelou",
+                    "email" :"audrelorde",
+                    "phone" :"0249225053",
+                    "bio" :"she is one of the proflic writers we have"
+                    
+                    }
+                    
+                                                          
+]
